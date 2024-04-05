@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Welcome to Mazzaratt`s perfil 😁
 
  <div>
    <a href="https://github.com/devemdobro">
